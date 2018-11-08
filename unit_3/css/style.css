@@ -3,17 +3,23 @@
     margin: 0; 
 }
 body {
+    margin: 65px;
+    padding: 25px;
     text-align: center;
-    background-image: url("https://i.imgur.com/43dmKYL.jpg");
+    background-image: url("https://i.imgur.com/m5lQSwF.jpg");
     background-size: cover;
     color: #fff;
     font-family: Helvetica;
+  }
+  li {
+    line-height: 25px;
   }
   hr {
     width: 800px;
   }
   p {
-    font-size: 22px;
+    line-height: 25px;
+    font-size: 20px;
   }
 #slogan {
   font-style: italic;
