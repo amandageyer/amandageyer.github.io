@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin');
+@import url('https://fonts.googleapis.com/css?family=Alegreya');
+
+
+* {
+   padding: 0;
+    margin: 0; 
+}
+
+h1 {
+  font-family: 'Libre Franklin', sans-serif;
+}
+p {
+  font-family: 'Alegreya', serif;
+}
+
+body {
+    margin: 65px;
+    padding: 25px;
+    text-align: center;
+    background-image: url("https://i.imgur.com/m5lQSwF.jpg");
+    background-size: cover;
+    color: #fff;
+    font-family: Helvetica;
+  }
+  li {
+    line-height: 25px;
+  }
+  hr {
+    width: 800px;
+  }
+  p {
+    line-height: 25px;
+    font-size: 20px;
+  }
+#slogan {
+  font-style: italic;
+}
